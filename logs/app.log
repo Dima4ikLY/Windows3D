@@ -1,0 +1,18 @@
+2025-04-05 11:22:52,118 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-04-05 11:22:55,785 - app - INFO - Получен запрос: POST http://127.0.0.1:5000/api/calculate с данными {'width': 1500, 'height': 850, 'steps': 5, 'material': 'ДПК', 'has_platform': False, 'platform_depth': 0, 'reinforcements_count': 3, 'paint_consumption': 110, 'frame_color': 'RAL9005'}
+2025-04-05 11:23:00,741 - app - INFO - Получен запрос: POST http://127.0.0.1:5000/api/calculate с данными {'width': 1500, 'height': 850, 'steps': 5, 'material': 'ДПК+1 ПВЛ', 'has_platform': False, 'platform_depth': 0, 'reinforcements_count': 3, 'paint_consumption': 110, 'frame_color': 'RAL9005'}
+2025-04-05 11:23:03,523 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/ без JSON данных
+2025-04-05 11:23:03,668 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/favicon.ico без JSON данных
+2025-04-05 11:23:03,669 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-04-05 11:23:04,522 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/eco.html без JSON данных
+2025-04-05 11:23:04,600 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/static/js/eco.js без JSON данных
+2025-04-05 11:23:04,725 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/favicon.ico без JSON данных
+2025-04-05 11:23:04,726 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-04-05 11:23:07,058 - app - INFO - Получен запрос: POST http://127.0.0.1:5000/api/calculate с данными {'width': 1500, 'height': 850, 'steps': 5, 'material': 'ДПК', 'has_platform': False, 'platform_depth': 0, 'reinforcements_count': 1, 'paint_consumption': 110, 'frame_color': 'RAL9005'}
+2025-04-05 11:23:08,929 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/favicon.ico без JSON данных
+2025-04-05 11:23:08,931 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-04-05 11:23:09,864 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/optima.html без JSON данных
+2025-04-05 11:23:09,921 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/static/js/optima.js без JSON данных
+2025-04-05 11:23:11,298 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/favicon.ico без JSON данных
+2025-04-05 11:23:11,303 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-04-05 11:23:15,576 - app - INFO - Получен запрос: POST http://127.0.0.1:5000/api/calculate с данными {'width': 1000, 'height': 680, 'steps': 4, 'material': 'ДПК', 'has_platform': False, 'platform_depth': 0, 'reinforcements_count': 1, 'paint_consumption': 110, 'frame_color': 'RAL9005'}
