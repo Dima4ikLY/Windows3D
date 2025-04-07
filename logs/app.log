@@ -16,3 +16,13 @@
 2025-04-05 11:23:11,298 - app - INFO - Получен запрос: GET http://127.0.0.1:5000/favicon.ico без JSON данных
 2025-04-05 11:23:11,303 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
 2025-04-05 11:23:15,576 - app - INFO - Получен запрос: POST http://127.0.0.1:5000/api/calculate с данными {'width': 1000, 'height': 680, 'steps': 4, 'material': 'ДПК', 'has_platform': False, 'platform_depth': 0, 'reinforcements_count': 1, 'paint_consumption': 110, 'frame_color': 'RAL9005'}
+2025-04-07 23:11:01,603 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/ без JSON данных
+2025-04-07 23:11:01,692 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/static/images/eco.png без JSON данных
+2025-04-07 23:11:01,694 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/static/images/optima.png без JSON данных
+2025-04-07 23:11:01,830 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/static/images/komfort.png без JSON данных
+2025-04-07 23:11:08,991 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/favicon.ico без JSON данных
+2025-04-07 23:11:08,992 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-04-07 23:11:14,501 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/eco.html без JSON данных
+2025-04-07 23:11:14,550 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/static/js/eco.js без JSON данных
+2025-04-07 23:11:17,688 - app - INFO - Получен запрос: GET http://10.35.17.144:5000/favicon.ico без JSON данных
+2025-04-07 23:11:17,690 - app - ERROR - Ошибка: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
